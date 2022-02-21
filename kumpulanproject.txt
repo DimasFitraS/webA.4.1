@@ -1,1 +1,4 @@
 Silahkan tuliskan NAMA, NPM dan Alamat Github masing-masing
+Nama : Dimas Fitra Setiawan
+NPM : 2035024
+Alamat Github : https://github.com/DimasFitraS/belajarphp
